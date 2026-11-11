@@ -19,7 +19,11 @@
   },
   "homepage": "https://github.com/anneisza/111_ORMCleanArchitecture#readme",
   "dependencies": {
+    "dotenv": "^18.0.10",
     "express": "^5.3.0",
-    "pg": "^8.23.1"
+    "nodemo": "^1.0.0",
+    "pg": "^8.23.1",
+    "sequelize": "^6.37.8",
+    "sequelize-cli": "^6.6.5"
   }
 }
