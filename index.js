@@ -16,4 +16,5 @@ async function startServer() {
     });
 }
 
+//memulai server
 startServer();
